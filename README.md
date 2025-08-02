@@ -1,9 +1,9 @@
 
 # AI/ML Internship Tasks – DevelopersHub
 
-**Author**: *[FAHAD TARIQ]*  
+**Author**: FAHAD TARIQ  
 **Internship**: AI/ML Engineering Internship – DevelopersHub Corporation  
-**Submission Date**: [02 Augest,2025]
+**Submission Date**: 02 Augest,2025
 
 ---
 
@@ -66,7 +66,8 @@ This repository contains my completed AI/ML internship tasks as part of the **AI
 
 ## 📝 About the Author
 
-**[FAHAD TARIQ]**  
+FAHAD TARIQ
+
 AI/ML Intern @ DevelopersHub Corporation  
 Passionate about applying machine learning to solve real-world problems with practical and efficient solutions.
 
